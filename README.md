@@ -11,7 +11,7 @@ To add this repo, add a file to the `/etc/yum.repos.d/...` directory with the fo
 
 [annie-slurm-repo]
 name=Annie's Custom SLURM Repo
-baseurl=https://github.com/annie444/slurm-repo
+baseurl=https://annie444.github.io/slurm-repo
 enabled=1
 gpgcheck=1
 repo_gpgcheck=1
