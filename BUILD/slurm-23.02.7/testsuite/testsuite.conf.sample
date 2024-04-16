@@ -1,8 +1,8 @@
 # Slurm Source Directory (contains configure.ac and the src directory)
-SlurmSourceDir=/root/rpmbuild/BUILD/slurm-23.02.7
+SlurmSourceDir=/home/aehler/rpmbuild/BUILD/slurm-23.02.7
 
 # Slurm Build Directory (where you ran configure and make from)
-SlurmBuildDir=/root/rpmbuild/BUILD/slurm-23.02.7
+SlurmBuildDir=/home/aehler/rpmbuild/BUILD/slurm-23.02.7
 
 # Slurm Installation Directory (value of --prefix configure option)
 SlurmInstallDir=/usr
