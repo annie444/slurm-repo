@@ -15,6 +15,6 @@ baseurl=https://annie444.github.io/slurm-repo
 enabled=1
 gpgcheck=1
 repo_gpgcheck=1
-gpgkey=https://github.com/annie444/slurm-repo/releases/download/key/key.asc
+gpgkey=https://github.com/annie444/slurm-repo/releases/download/gpgkey/RPM-GPG-KEY-anniee
 
 ```
